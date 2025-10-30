@@ -1,0 +1,30 @@
+{
+  "name": "bersih-in",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .ts,.tsx",
+    "format": "prettier --write src"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "@radix-ui/react-icons": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.38",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint": "^8.49.0",
+    "prettier": "^3.1.0"
+  }
+}

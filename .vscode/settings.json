@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.location": "top",
+    "editor.formatOnSave": false,
+    "search.exclude": {
+        "": true
+    }
+}

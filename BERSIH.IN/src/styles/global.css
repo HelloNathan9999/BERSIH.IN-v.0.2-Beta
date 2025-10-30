@@ -1,0 +1,17 @@
+/* globals.css */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* theme-light.css */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+}
+
+/* theme-dark.css */
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+}
